@@ -13,7 +13,7 @@ AJAX stands for Asynchronous JAvaScript and XML. AJAX is a technique for creatin
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-AJAX by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX <br /> <br /> <br /> <br />
+AJAX by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
