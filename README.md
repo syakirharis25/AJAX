@@ -14,8 +14,8 @@ AJAX stands for **A**synchronous **JA**vaScript and **X**ML. AJAX is a technique
 Ajax is not a single technology, but rather a group of technologies. HTML and CSS can be used in combination to mark up and style information. The webpage can then be modified by JavaScript to dynamically display—and allow the user to interact with—the new information. The built-in XMLHttpRequest object, or since 2017 the new "fetch()" function within JavaScript, is commonly used to execute Ajax on webpages allowing websites to load content onto the screen without refreshing the page. Ajax is not a new technology, or different language, just existing technologies used in new ways.
 
 <a name="references"></a>
-## 2. Official references websites.
-AJAX by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
+## 2. Official references websites. <br />
+AJAX by Mozilla : https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
