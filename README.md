@@ -1,5 +1,5 @@
 # AJAX
-My works related to Asynchronous JavaScript + XML (AJAX).
+My works related to AJAX.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
