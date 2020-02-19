@@ -5,6 +5,7 @@ My works related to AJAX.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -23,3 +24,18 @@ $ git clone https://github.com/syakirharis25/AJAX.git
 $ cd AJAX/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              5              0             22
+PHP                              2              6              3             19
+-------------------------------------------------------------------------------
+SUM:                             3             11              3             41
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
